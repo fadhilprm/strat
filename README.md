@@ -1,0 +1,2 @@
+# tradingviewstrat
+Tradingview Indicator
